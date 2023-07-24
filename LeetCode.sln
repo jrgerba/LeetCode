@@ -5,6 +5,10 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{DFE3FEF3-CAC2-444F-A6B4-FA29F15720BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoNumbers", "AddTwoNumbers\AddTwoNumbers.csproj", "{77F79391-6226-4403-8C37-5205084C470E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubstring", "LongestSubstring\LongestSubstring.csproj", "{5BD590D3-3817-480B-BDC3-30CAC4505036}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{DFE3FEF3-CAC2-444F-A6B4-FA29F15720BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFE3FEF3-CAC2-444F-A6B4-FA29F15720BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFE3FEF3-CAC2-444F-A6B4-FA29F15720BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F79391-6226-4403-8C37-5205084C470E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F79391-6226-4403-8C37-5205084C470E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F79391-6226-4403-8C37-5205084C470E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F79391-6226-4403-8C37-5205084C470E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD590D3-3817-480B-BDC3-30CAC4505036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD590D3-3817-480B-BDC3-30CAC4505036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD590D3-3817-480B-BDC3-30CAC4505036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD590D3-3817-480B-BDC3-30CAC4505036}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
